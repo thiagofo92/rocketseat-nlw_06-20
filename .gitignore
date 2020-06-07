@@ -1,0 +1,9 @@
+node_modules
+.expo/*
+uploads/*
+!uploads/.gitkeep
+npm-debug.*
+web-build/
+web-report/
+*.sqlite
+.DS_Store
